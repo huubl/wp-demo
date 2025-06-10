@@ -1,0 +1,1 @@
+[26-May-2025 06:51:54 UTC] PHP Deprecated:  version_compare(): Passing null to parameter #1 ($version1) of type string is deprecated in /wordpress/wp-content/plugins/secure-custom-fields/includes/api/api-helpers.php on line 813
